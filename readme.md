@@ -8,7 +8,7 @@ L'objectif de ce projet a été de créer une application lourde à partir d'une
 
 ## Installation
 
-- Télécharger l'archive et l'extraire
+- Télécharger l'archive et l'extraire depuis la branche "main" 
 
 ## Utilisation
 
